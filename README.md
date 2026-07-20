@@ -6,7 +6,7 @@
 
 Detects **Weed**, **Wheat**, and **Other Objects** from field images using a custom-trained **ResNet18** model with explainable AI (Grad-CAM).
 
-<img src="assets/banner.png" width="100%"/>
+<img src="miniui.png" width="100%"/>
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
