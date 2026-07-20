@@ -10,7 +10,7 @@ Detects **Weed**, **Wheat**, and **Other Objects** from field images using a cus
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
-![Flask](https://img.shields.io/badge/Flask-Web%20App-black)
+![Flask](https://img.shields.io/badge/Flask-Web%20App-red)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 ![License](https://img.shields.io/badge/License-MIT-success)
 
