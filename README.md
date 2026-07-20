@@ -155,18 +155,6 @@ Weed  Wheat   Others
 
 ---
 
-# 📸 Application Screenshots
-
-| Home | Prediction |
-|------|------------|
-| Add Screenshot | Add Screenshot |
-
-| Weed | Wheat |
-|------|--------|
-| Add Screenshot | Add Screenshot |
-
----
-
 # 📊 Performance
 
 ### Classification Accuracy
@@ -215,19 +203,6 @@ Weed  Wheat   Others
 
 - Multiple Crop Support
 
----
-
-# ▶ Installation
-
-```bash
-git clone https://github.com/yourusername/weed-detection.git
-
-cd weed-detection
-
-pip install -r requirements.txt
-
-python app.py
-```
 
 ---
 
