@@ -6,7 +6,10 @@
 
 Detects **Weed**, **Wheat**, and **Other Objects** from field images using a custom-trained **ResNet18** model with explainable AI (Grad-CAM).
 
-<img src="https://github.com/Gnanashree5/Weed-detection-in-wheat-crops-using-Computer-Vision/blob/main/miniui1.png" width="100%"/>
+<img src="https://github.com/Gnanashree5/Weed-detection-in-wheat-crops-using-Computer-Vision/blob/main/miniui1.png" width="25%"/>
+<img src="https://github.com/Gnanashree5/Weed-detection-in-wheat-crops-using-Computer-Vision/blob/main/miniui2.png" width="25%"/>
+<img src="https://github.com/Gnanashree5/Weed-detection-in-wheat-crops-using-Computer-Vision/blob/main/miniui3.png" width="25%"/>
+<img src="https://github.com/Gnanashree5/Weed-detection-in-wheat-crops-using-Computer-Vision/blob/main/miniui4.png" width="25%"/>
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
